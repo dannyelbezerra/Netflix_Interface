@@ -1,2 +1,2 @@
 # Netflix_Interface
-Recriando a interface da Netflix
+Projeto do Bootcamp Decola Dev Avanade 2021 na Digital Innovation One - Recriando a interface da Netflix
